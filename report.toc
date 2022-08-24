@@ -1,0 +1,6 @@
+\contentsline {chapter}{\numberline {1}First chapter}{2}{}%
+\contentsline {section}{\numberline {1.1}This is the first section}{2}{}%
+\contentsline {section}{\numberline {1.2}Second section}{2}{}%
+\contentsline {subsection}{\numberline {1.2.1}First subsection in first section}{2}{}%
+\contentsline {subsubsection}{First subsubsection}{2}{}%
+\contentsline {chapter}{\numberline {A}New chapter}{3}{}%
